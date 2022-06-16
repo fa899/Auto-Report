@@ -55,6 +55,14 @@ Planning to add:
 
 • **Friends whitelist** (at first update)
 
+^ How to use?
+```lua
+-- You see this table:
+local WhitelistedPeople = {} -- in this table you can add for example {"Friendlyperson1","friendlyperson2"}
+-- so it will look like this:
+local WhitelistedPeople = {"Friendlyperson1","friendlyperson2}
+```
+
 • **Smart detection** (at second update)
 
 • **More blacklisted words** (at third update)
